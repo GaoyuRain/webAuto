@@ -1,0 +1,15 @@
+{
+  "name": "rain",
+  "age": 19,
+  "school": null,
+  "address": {
+    "city": "\u4e0a\u6d77",
+    "area": "\u6d66\u4e1c"
+  },
+  "number": [
+    1,
+    2,
+    3
+  ],
+  "is_man": false
+}

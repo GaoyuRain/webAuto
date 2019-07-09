@@ -1,0 +1,5 @@
+2019-06-30 20:33:39,628 DEBUG [rain] [day08_log.py(test_log2:30)] - debug 込込込込込
+2019-06-30 20:33:39,628 INFO [rain] [day08_log.py(test_log2:31)] - info
+2019-06-30 20:33:39,628 WARNING [rain] [day08_log.py(test_log2:32)] - warning
+2019-06-30 20:33:39,628 ERROR [rain] [day08_log.py(test_log2:33)] - error
+2019-06-30 20:33:39,628 CRITICAL [rain] [day08_log.py(test_log2:34)] - critical
