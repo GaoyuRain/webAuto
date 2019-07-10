@@ -1,6 +1,6 @@
 from selenium.webdriver.remote.webelement import WebElement
 
-from day08.calc2.utils import DriverUtils
+from test08.calc2.utils import DriverUtils
 
 
 class CalcBasePage:

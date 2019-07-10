@@ -1,7 +1,7 @@
 import unittest
 
-from day05.day05_testcase01 import TestAdd01
-from day05.day05_testcase02 import TestAdd02
+from test05.day05_testcase01 import TestAdd01
+from test05.day05_testcase02 import TestAdd02
 
 
 def text01():

@@ -2,8 +2,8 @@ import unittest
 import json
 from time import sleep
 
-from day07.calc.calc_page import CalcProxy
-from day07.calc.utils import DriverUtils, get_result
+from test07.calc.calc_page import CalcProxy
+from test07.calc.utils import DriverUtils, get_result
 from parameterized import parameterized
 from HTMLTestRunnerCN import HTMLTestReportCN
 

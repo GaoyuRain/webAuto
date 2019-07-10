@@ -2,7 +2,7 @@ import time
 import unittest
 
 from HTMLTestRunnerCN import HTMLTestReportCN
-from day08.calc2.test_calc import TestCalc
+from test08.calc2.test_calc import TestCalc
 
 
 def get_report():

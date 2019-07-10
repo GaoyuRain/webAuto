@@ -3,8 +3,8 @@ import unittest
 from time import sleep
 from parameterized import parameterized
 
-from day08.tp_shop_login.login_page import LoginProxy
-from day08.tp_shop_login.utils import DriverUtils, get_tips_msg
+from test08.tp_shop_login.login_page import LoginProxy
+from test08.tp_shop_login.utils import DriverUtils, get_tips_msg
 
 
 def get_data():

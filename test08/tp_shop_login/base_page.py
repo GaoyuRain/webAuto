@@ -1,6 +1,6 @@
 from selenium.webdriver.remote.webelement import WebElement
 
-from day08.tp_shop_login.utils import DriverUtils
+from test08.tp_shop_login.utils import DriverUtils
 
 
 class BasePage:

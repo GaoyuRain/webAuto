@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-from day07.calc.base_page import CalcBasePage
+from test07.calc.base_page import CalcBasePage
 
 
 class CalcPage(CalcBasePage):

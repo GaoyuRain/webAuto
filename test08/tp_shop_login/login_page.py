@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
-from day08.tp_shop_login.base_page import BasePage, BaseHandle
-from day08.tp_shop_login.utils import DriverUtils
+from test08.tp_shop_login.base_page import BasePage, BaseHandle
+from test08.tp_shop_login.utils import DriverUtils
 
 '''登录模块'''
 
