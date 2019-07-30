@@ -13,6 +13,7 @@ driver.find_element_by_id('verify_code').send_keys('8888')
 driver.find_element_by_class_name('J-login-submit').click()
 cont = driver.find_element_by_class_name('layui-layer-content').text
 print(cont)
+print('test')
 
 sleep(3)
 driver.quit()

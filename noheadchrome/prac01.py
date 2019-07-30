@@ -18,6 +18,7 @@ def test01():
     # print(doc)
     # 获取class=quote的元素数量
     print('quote:', doc('.quote').length)
+    print('test')
     print('-' * 30)
     response1 = requests.get(url1)
     doc2 = PyQuery(response1.text)
