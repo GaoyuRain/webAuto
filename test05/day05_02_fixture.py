@@ -8,7 +8,8 @@ def setUpModule():
 def tearDownModule():
     print('tearDownModule')
 
-
+def testpust():
+    pass
 class Test02(unittest.TestCase):
     def setUp(self) -> None:
         print('准备工作')
